@@ -1,4 +1,4 @@
-#### Skills at a glance
+# Skills at a glance
 
     • Describe cloud concepts (25–30%)
     • Describe Azure architecture and services (35–40%)
